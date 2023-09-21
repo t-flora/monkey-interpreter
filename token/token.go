@@ -34,6 +34,8 @@ const (
 	BANG     = "!"
 	LT       = "<"
 	GT       = ">"
+	EQ       = "=="
+	NOT_EQ   = "!="
 
 	// keywords
 	FUNCTION = "FUNCTION"
